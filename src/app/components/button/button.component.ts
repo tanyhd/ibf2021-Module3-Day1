@@ -11,6 +11,7 @@ export class ButtonComponent implements OnInit {
 
   alertUser() {
     alert("You should not click !!!");
+
   }
 
   constructor() { }
